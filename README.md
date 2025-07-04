@@ -1,12 +1,28 @@
-# React + Vite
+# 🎬 Movie_Cards_Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **Movie Cards Website** — a simple project where I practiced building a **responsive movie listing page** using **HTML**, **CSS**, **JavaScript** and **React**. 
+👉 [**View it here**](https://movie-card-search.onrender.com)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ About the Project
 
-## Expanding the ESLint configuration
+This is a clean, modern **movie cards gallery** that displays a collection of movies with posters, titles, and descriptions — all styled nicely and responsive for desktop and mobile.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Key Features
+- 🎞️ Dynamic movie cards grid layout
+- 🖼️ Movie posters, titles, and info
+- 📱 Fully responsive design
+- 🎨 Modern, clean UI
+
+---
+
+## 🛠️ Skills
+This project used:
+- **HTML & CSS:** semantic structure and responsive styling
+- **JavaScript fundamentals:** DOM selection, event handling
+- **React:** Component based frontend
+- **Flexbox & CSS Grid:** modern layout techniques
+- **Responsive design:** mobile-friendly breakpoints
+- **Version control:** Git & GitHub for tracking progress
+- **Deployment:** hosting a static site with Render
